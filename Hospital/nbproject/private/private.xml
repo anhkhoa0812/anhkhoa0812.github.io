@@ -5,12 +5,11 @@
         <group name="1">
             <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/view/Main.java</file>
             <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/model/Patient.java</file>
-            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/controller/Hospital.java</file>
             <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/business/PatientList.java</file>
-            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/model/Nurse.java</file>
             <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/business/NurseList.java</file>
-            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/output/nurses.dat</file>
-            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/output/patients.dat</file>
+            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/model/Nurse.java</file>
+            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/view/Menu.java</file>
+            <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/controller/HospitalManagement.java</file>
             <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/util/Validation.java</file>
             <file>file:/C:/Users/tahoa/Documents/NetBeansProjects/Hospital/src/model/Person.java</file>
         </group>
